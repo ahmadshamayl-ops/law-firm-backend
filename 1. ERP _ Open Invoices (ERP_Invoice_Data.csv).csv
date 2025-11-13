@@ -1,0 +1,6 @@
+Invoice_ID,Client_Name,Matter_ID,Invoice_Date,Invoice_Amount (USD),Currency,Due_Date,Status
+INV-2025-001,ABC Holdings Ltd,MTR-1029,2025-10-10,"125,000.00",USD,2025-11-09,Pending
+INV-2025-002,Orion Real Estate,MTR-1132,2025-10-12,"68,500.00",USD,2025-11-11,Pending
+INV-2025-003,Zenith Energy Corp.,MTR-1204,2025-10-15,"93,200.00",GBP,2025-11-14,Pending
+INV-2025-004,Federal Motors,MTR-1158,2025-10-16,"34,800.00",USD,2025-11-15,Pending
+INV-2025-005,Nova Shipping Co.,MTR-1087,2025-10-18,"17,500.00",EUR,2025-11-17,Pending

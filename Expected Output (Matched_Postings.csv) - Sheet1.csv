@@ -1,0 +1,6 @@
+Payment_Ref,Payer_Name,Matched_Invoice,Match_Type,Confidence,Posting_Status
+TRX-554982,Acme Holdings,INV-2025-001,Exact,99%,Auto-posted
+TRX-555142,Global Tech Ltd,INV-2025-002,Fuzzy (name),94%,Auto-posted
+TRX-555490,Silverstone Cap,INV-2025-003,Exact,98%,Auto-posted
+TRX-555812,Horizon Infra Group,INV-2025-004,Contextual,96%,Auto-posted
+TRX-556023,Contl. Partners,INV-2025-005,Reference,97%,Auto-posted

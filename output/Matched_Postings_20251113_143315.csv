@@ -1,0 +1,6 @@
+Payment_Ref,Payer_Name,Matched_Invoice,Match_Type,Confidence,Posting_Status,Bank_Amount,Invoice_Amount,Amount_Difference
+TRX-554982,Acme Holdings,INV-2025-001,Reference,82%,Auto-posted,24500.00,125000.00,-100500.00
+TRX-555142,Global Tech Ltd,INV-2025-002,Reference,82%,Auto-posted,31150.00,68500.00,-37350.00
+TRX-555490,Silverstone Cap,INV-2025-003,Reference,81%,Auto-posted,18750.00,93200.00,-74450.00
+TRX-555812,Horizon Infra Group,INV-2025-004,Reference,84%,Auto-posted,45000.00,34800.00,10200.00
+TRX-556023,Contl. Partners,INV-2025-005,Reference,84%,Auto-posted,12900.00,17500.00,-4600.00

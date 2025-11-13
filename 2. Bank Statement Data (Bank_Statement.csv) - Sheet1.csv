@@ -1,0 +1,6 @@
+Value_Date,Reference_No,Description,Payer_Name,Amount,Currency
+2025-10-11,TRX-554982,Wire Transfer,Acme Holdings,"24,500.00",USD
+2025-10-15,TRX-555142,Bank Transfer,Global Tech Ltd,"31,150.00",USD
+2025-10-19,TRX-555490,ACH Payment,Silverstone Cap,"18,750.00",USD
+2025-10-26,TRX-555812,Wire Payment,Horizon Infra Group,"45,000.00",USD
+2025-11-02,TRX-556023,Wire Payment,Contl. Partners,"12,900.00",USD

@@ -1,0 +1,9 @@
+{
+  "ahmadtest": {
+    "username": "ahmadtest",
+    "email": "ahmadtest@gmail.com",
+    "full_name": "Ahmad",
+    "hashed_password": "$2b$12$q/JdDi5rl2YMVQIRcewXzeqepPyzsJac6vqPDr8ocpZ5jZn5cpOj6",
+    "created_at": "2025-11-13T12:39:47.866240"
+  }
+}

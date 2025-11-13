@@ -1,0 +1,6 @@
+Remittance_ID,Payer_Name,Invoice_Reference,Payment_Amount,Notes
+REM-101,Acme Holdings Ltd.,INV-2025-001,"24,500.00",“Payment for MTR-8942”
+REM-102,GlobalTech Pte Ltd,INV-2025-002,"31,200.00",“Q3 legal advisory fees”
+REM-103,Silverstone Capital,INV-2025-003,"18,750.00",“M&A documentation support”
+REM-104,Horizon Infrastructure,INV-2025-004,"45,000.00",“Litigation retainer – MTR-8011”
+REM-105,Continental Partners,INV-2025-005,"12,900.00",“IP contract drafting fees”
